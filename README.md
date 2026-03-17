@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yongjin Lee 👋
 
 <!--
 **yongjin0213/yongjin0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Science at Cornell University. I'm interested in software engineering, particularly in backend development and building data-driven systems at scale. I gained experience in developing complex software through internships, personal projects, and coursework. I'm currently working as a backend developmer intern at Altheros Capital, a private equity, where I'm working with my team to build an LLM pipeline for user-facing products. 
+
+Feel free to reach out at yl2889@cornell.edu!
